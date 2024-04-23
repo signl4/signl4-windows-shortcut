@@ -30,4 +30,4 @@ CTRL + ALT + A
 
 That's it. The alert in SIGNL4 might look like this.  
 
-![SIGNL4 Alert](signl4-alert.png)
+![SIGNL4 Alert](signl4-intruder.png)
