@@ -4,7 +4,7 @@ There are various options to trigger SIGNL4 alerts manually, e.g. from the web p
 
 As simple way to trigger an alert from your Windows machine is to use a shortcut on your desktop or a keyboard shortcut.
 
-This allows employees to (silently) trigger an alert from their desk when there is a threatening situation, e.g. with a client.
+This allows employees to (silently) trigger an alert from their desk when there is a threatening situation, e.g. an aggressive client.
 
 You just need to PowerShell script to trigger the alert and a Windows shortcut.
 
